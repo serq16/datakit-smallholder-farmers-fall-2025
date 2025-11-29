@@ -50,6 +50,8 @@ Farmers' financial questions follow strong seasonal patterns:
 ### Key Finding 3: Ugandan farmers prioritize price discovery, while Kenyan farmers additionally seek credit and startup capital before planting seasons.
 Ugandan farmers ask significantly more financial questions than Kenyan farmers, a difference confirmed by a chi-square test (p < 0.001).
 
+![Key Finding 3a](https://github.com/PreciousEnahoro/datakit-smallholder-farmers-fall-2025/blob/main/Challenge%205_%20Financial%20Inclusion/Precious%20Enahoro/key-finding-vizzes/Financial%20Questions%20as%20a%20Share%20of%20Total%20Farmer%20Queries%20(by%20Country).png)
+
 Market price questions dominate financial needs in both countries, but **Uganda is far more reliant on price discovery**, with prices accounting for nearly 60% of all financial queries. **Kenyan farmers display a more diversified financial profile**, combining price discovery with strong demand for credit, startup capital, and investment evaluation. In general, seasonal patterns also mirror agricultural cycles.
 
 **Implications for Producers Direct:**

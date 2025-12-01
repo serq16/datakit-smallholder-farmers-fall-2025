@@ -8,6 +8,7 @@ All three datasets have the following columns:
 - user_id
 - country
 - topics
+- question_type
 - text
 - clean_text
 - date

@@ -6,15 +6,24 @@ I think every country must be analyzed specifically i mean if you analyzing all 
 ## first_look() function
 This function created to understand the data in more detail and it shows shape,data types,sample rows,unique and missing values
 
-<div align="center">
-  <img src="images_from_analysis/dimensions_and_type.png" alt="Shape and Data Types" width="600">
-</div>
-<div align="center">
-  <img src="images_from_analysis/first_row.png" alt="First Row" width="600">
-</div>
-<div align="center">
-  <img src="images_from_analysis/missing_and_unique_values.png" alt="Missing and Unique Values" width="600">
-</div>
+<p align="center">
+  <img src="images_from_analysis/dimensions_and_type.png" />
+</p>
+<p align="center">
+  <b>Dimensions and Data Types</b>
+</p>
+<p align="center">
+  <img src="images_from_analysis/first_row.png" />
+</p>
+<p align="center">
+  <b>First Row</b>
+</p>
+<p align="center">
+  <img src="images_from_analysis/missing_and_unique_values.png" />
+</p>
+<p align="center">
+  <b>Missing and Unique Values/b>
+</p>
 
 ## detailed_missing_value_analysis() 
 In order to analyze distribution of missing values in every country i prepared this function and it will also give insights for further dropping and analysis
